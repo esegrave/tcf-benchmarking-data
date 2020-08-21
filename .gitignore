@@ -5,3 +5,10 @@ __pycache__/
 temp.csv
 temp2.csv
 data/
+unjoined_cities.csv
+unjoined_city_flag.csv
+unmatched_grade_enrollment.csv
+unmatched_grade_proficiency.csv
+unmatched_group_enrollment.csv
+unmatched_group_proficiency.csv
+unmatched_subject_proficiency.csv
